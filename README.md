@@ -1,3 +1,5 @@
+<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/vanessaswerts/aula04-git">
+
 
 <h4 align="center"> Aula Git - em desenvolvimento </h4>
 
