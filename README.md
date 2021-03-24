@@ -69,6 +69,7 @@ Antes começar, você vai precisar ter instalado em sua máquina as seguintes fe
 
 ## Licença
 
+<img alt="GitHub" src="https://img.shields.io/github/license/vanessaswerts/aula04-git">
 Este projeto esta sobe a licença [MIT](./LICENSE)
 
 
