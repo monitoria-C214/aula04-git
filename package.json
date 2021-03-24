@@ -1,0 +1,14 @@
+{
+  "name": "aula03-node",
+  "version": "1.0.0",
+  "description": "Projeto criado para a aula 3 - eng de software",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "cowsay": "^1.4.0",
+    "faker": "^5.4.0"
+  }
+}
