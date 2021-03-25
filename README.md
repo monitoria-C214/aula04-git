@@ -12,13 +12,13 @@
 </p>
 
 
-## Sobre o projeto
+##  Sobre o projeto
 
 Repositório criado para a aula de Controle de Versão do lab de Engenharia de Software.
 
 ---
 
-## Funcionalidades
+##  Funcionalidades
 
 - [x] Buscar um nome aleatório na API
 - [x] Buscar um veículo aleatório na API
@@ -51,7 +51,7 @@ Antes começar, você vai precisar ter instalado em sua máquina as seguintes fe
 ```
 ---
 
-## Autora
+##  Autora
 
 <table>
   <tr>
@@ -69,7 +69,7 @@ Antes começar, você vai precisar ter instalado em sua máquina as seguintes fe
 
 ---
 
-## Licença
+##  Licença
 
 <img alt="GitHub" src="https://img.shields.io/github/license/vanessaswerts/aula04-git">
 Este projeto esta sobe a licença [MIT](./LICENSE)
