@@ -11,6 +11,14 @@
   <a href="#-licença">Licença</a>
 </p>
 
+<p align="center">
+ <a href="#-sobre-o-projeto">Sobre</a> •
+ <a href="#-funcionalidades">Funcionalidades</a> •
+ <a href="#-como-executar-o-projeto">Como executar</a> • 
+ <a href="#-autora">Autor</a> • 
+ <a href="#user-content--licença">Licença</a>
+</p>
+
 
 ##  Sobre o projeto
 
