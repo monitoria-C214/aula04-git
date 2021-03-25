@@ -4,14 +4,6 @@
 <h4 align="center"> Aula Git - em desenvolvimento </h4>
 
 <p align="center">
-  <a href="#-sobre-o-projeto">Sobre</a> •
-  <a href="#-funcionalidades">Funcionalidades</a> •
-  <a href="#-como-executar-o-projeto">Como executar</a> •
-  <a href="#-autora">Autor</a> •
-  <a href="#-licença">Licença</a>
-</p>
-
-<p align="center">
  <a href="#-sobre-o-projeto">Sobre</a> •
  <a href="#-funcionalidades">Funcionalidades</a> •
  <a href="#-como-executar-o-projeto">Como executar</a> • 
@@ -26,14 +18,14 @@ Repositório criado para a aula de Controle de Versão do lab de Engenharia de S
 
 ---
 
-##  Funcionalidades
+## Funcionalidades
 
 - [x] Buscar um nome aleatório na API
 - [x] Buscar um veículo aleatório na API
 
 ---
 
-## Como executar  o projeto
+## Como executar o projeto
 
 ### Pré-requisitos 
 
@@ -59,7 +51,7 @@ Antes começar, você vai precisar ter instalado em sua máquina as seguintes fe
 ```
 ---
 
-##  Autora
+## Autora
 
 <table>
   <tr>
@@ -77,7 +69,7 @@ Antes começar, você vai precisar ter instalado em sua máquina as seguintes fe
 
 ---
 
-##  Licença
+## Licença
 
 <img alt="GitHub" src="https://img.shields.io/github/license/vanessaswerts/aula04-git">
 Este projeto esta sobe a licença [MIT](./LICENSE)
